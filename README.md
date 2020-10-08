@@ -1,3 +1,12 @@
+
+This project is a collection of all-time favorite recipes from the Food Service Crew at West Salisbury Elementary in Salisbury, Maryland. 
+
+As of this date, the project is planned to possibly include more than twenty-five recipes. The project name may change. More to come...
+
+
+
+***************************************************************
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
