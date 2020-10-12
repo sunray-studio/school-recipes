@@ -67,14 +67,14 @@ const Header = () => (
             <Link className="dropdown-item" to="/JalapeñoPepperBars">Jalapeño Pepper Bars</Link>
             <Link className="dropdown-item" to="/Pizza">Pizza</Link>
           </NavDropdown>
-          <NavDropdown title="Savories" id="collaspible-nav-dropdown">
+          <NavDropdown title="Savories" id="collapsible-nav-dropdown">
             <Link className="dropdown-item" to="/SpiceNoodles">Bavarian Style Pasta</Link>
             <Link className="dropdown-item" to="/BonelessBuffaloWings">Boneless Buffalo Wings</Link>
             <Link className="dropdown-item" to="/BlackBeanSoup">Black Bean Soup</Link>
             <Link className="dropdown-item" to="/ShrimpPasta">Shrimp Pasta</Link>
             <Link className="dropdown-item" to="/KaleJuice">Kale Juice</Link>
           </NavDropdown>
-          <NavDropdown title="Desserts" id="collaspible-nav-dropdown">
+          <NavDropdown title="Desserts" id="collapsible-nav-dropdown">
             <Link className="dropdown-item" to="/ChocolateChipCookies">Chocolate Chip Cookies</Link>
             <Link className="dropdown-item" to="/LemonPie">Lemon Pie</Link>
             <Link className="dropdown-item" to="/MonsterCookies">Monster Cookies</Link>
